@@ -59,9 +59,11 @@ A responsive gym website developed using HTML, CSS, JavaScript, and MySQL.
 
 ## 📫 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: tharun57592@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: www.linkedin.com/in/tharun-k-74a39a370
+
+
 
 
 
