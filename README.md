@@ -3,6 +3,9 @@
 
 ---
 
+🚀 Looking for opportunities as a Software Developer / Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tharun+K;Software+Engineer;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 ## 👨‍💻 About Me
 
 🎓 Computer Science Graduate (2026)
@@ -11,8 +14,6 @@
 
 🌱 Currently improving my skills in Backend Development, REST APIs, and React.js
 
-🚀 Looking for opportunities as a Software Developer / Full Stack Developer
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tharun+K;Software+Engineer;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 ---
 ## 💻 Technical Skills
 
