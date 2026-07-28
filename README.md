@@ -15,34 +15,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Skills
 
-### Programming Languages
-- Python
-- JavaScript
-- C
-- C++
-
-### Frontend
-- HTML5
-- CSS3
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode&perline=6" />
+</p>
 ---
 
 ## 🚀 Featured Projects
