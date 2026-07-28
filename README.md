@@ -47,11 +47,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun-575&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📈 Activity Graph
 
@@ -60,17 +56,7 @@
 </p>
 
 
-## 🚀 Featured Projects
 
-### 📋 Client Lead Management System
-A full-stack CRM application built using React.js, Node.js, Express.js, and MySQL.
-
-### 🏋️ FitZone Gym Website
-A responsive gym website developed using HTML, CSS, JavaScript, and MySQL.
-
-
-
----
 
 ## 📫 Connect with Me
 
