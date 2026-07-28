@@ -1,10 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tharun K</h1>
+<table>
+<tr>
+<td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tharun+K;Software+Engineer;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+# Hi 👋 I'm Tharun K
 
-<h3 align="center">Computer Science Graduate (2026) | Full Stack Developer | Python Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&width=450&lines=Software+Engineer;Full+Stack+Developer;Python+Developer)](https://git.io/typing-svg)
 
----
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 🚀 Looking for opportunities as a Software Developer / Full Stack Developer
 
@@ -35,6 +45,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
