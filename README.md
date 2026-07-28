@@ -28,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-Architecture-blueviolet?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
