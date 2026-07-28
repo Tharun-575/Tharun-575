@@ -46,10 +46,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔥 GitHub Streak
+
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tharun-575&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-575&theme=tokyo-night&hide_border=true" />
 </p>
 
 
